@@ -1,5 +1,24 @@
-# mastering-git-web
+# 프로젝트 개요
+Contact: bsyzchh@naver.com
 
-This repository houses a proposed website for the Mastering Git book.
+프로젝트 주제: 인공지능 다마고찌 만들기
 
-Contact: mwkoo@sogang.ac.kr
+팀원
+- 김기범
+- 김동현
+- 김찬민
+- 서태원
+
+개요: 과거 유행했던 장난감인 '다마고찌'를 인공지능 기술과 접목하여 스스로 성장하는 다마고찌를 만든다.
+
+세부 개발 사항
+- 다마고찌의 먹이사냥
+- 다마고찌의 이동 동선 알고리즘
+- 다마고찌의 상태 현황
+- 다마고찌의 레벨
+- 레벨별로 추가되는 새로운 능력
+- etc..
+
+
+
+
